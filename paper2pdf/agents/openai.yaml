@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper2PDF"
+  short_description: "Format academic manuscripts into journal-style DOCX and PDF layouts."
+  default_prompt: "Use $paper2pdf to format my manuscript into a polished journal-style DOCX/PDF layout using the supplied template or guideline."
